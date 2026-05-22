@@ -1,16 +1,120 @@
-# React + Vite
+# Assumption Church Pallapalayam Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official website for Assumption Church Pallapalayam built using React and Vite.
 
-Currently, two official plugins are available:
+This website was created to showcase the church history, spiritual landmarks, celebrations, gallery, and parish information in a modern and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive Church Website
+- Beautiful Home Page
+- Church History Section
+- Gallery with Lightbox
+- Smooth Scroll Animations
+- Parish Information
+- Shrine & Grotto Sections
+- Mobile Friendly Design
+- Modern UI using Tailwind CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React JS
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
+- Yet Another React Lightbox
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/assumption-church-pallapalayam.git
+```
+
+Go to project folder:
+
+```bash
+cd assumption-church-pallapalayam
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build Project
+
+To create production build:
+
+```bash
+npm run build
+```
+
+---
+
+## Project Structure
+
+```bash
+src/
+ ├── assets/
+ ├── components/
+ ├── pages/
+ ├── App.jsx
+ ├── main.jsx
+```
+
+---
+
+## Main Sections
+
+- Home
+- About Church
+- Church History
+- Lourdes Grotto
+- Velankanni Grotto
+- Sacred Heart Grotto
+- Relic of Holy Cross
+- Gallery
+- Contact
+
+---
+
+## Future Improvements
+
+- Admin Panel
+- Online Donation System
+- Mass Timing Updates
+- Event Management
+- Multi-language Support
+- Live Streaming Integration
+
+---
+
+## Author
+
+Remigius Marioe
+
+Frontend Developer | Java & React Developer
+
+---
+
+## License
+
+This project is created for Assumption Church Pallapalayam.
