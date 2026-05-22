@@ -1,0 +1,44 @@
+import React from 'react'
+
+const para ={
+  para1: "The origin of Pallapalayam and its Christians is very hazy. As the name .of the place indicates the original inhabitants must have been the depressed class( Pallars) and it is true that there were many of that caste from the Marava country of Ramnad settled here and even today they are a considerable number. They are an agricultural people and in the beginning they were the owners of much of the land and Pallapalayam was a very fertile land, irrigated by the dam across the river Noyal. The Jesuits from Madura mission probably converted these people. It is almost certain that the present majority community of Thevers had settled down here after-wards. There is a very reliable oral tradition that, as Hindus, they were part of migration of Thevars (one of the Mukulathors) which first settled in and around Kamanathapuram, now a suburb of Coimbatore and thus they had named their new settlement as Ramanathapuram, in memory of their origin in the Ramnad District. The local Vellala Goundars, because of their agricultural abilities especially in “Beetle Nut” grove cultivation must have invited them. They settled first a Semandampalayam, where they were converted by the Jesuits from Kanuvakarai (Sathy) who were also looking after Karumathampatty. According to the oral tradition, because of their conversion to Christianity they, fell out of the grace of the Hindus of the village. Hence they had to migrate to other places. Their” Kula deivam” (tribal patron) was Ayyanar and they had built a temple to their patron there which still exists today. Here the first missionaries of Satyamangalam mission must have evangelized them, especially when Karumathampatty became a main mission center around the second half of the 17th century. It is only 3-4 Kms. from Karumathampatty. Since they are a community of cultivators specialized in beetle nut cultivation, they must have moved southward to Sedapalayam first replacing the Sedars who, though the original inhabitants of the village, must have migrated to other areas and then finnaly to Pallapalayam itself, as both Semandampalayam and Sedapalyam are dry areas, whereas Pallapalayam is well irrigated. This fact came to light recently when the latest beautiful new church was being constructed at Semandampalayam in 2004: One group went north to Erangattupalayam and thence finally settled down at Valipalayam either as already converted or converted at Erangattupalayam near Puliampatty.",
+  para2: "Another group would have proceeded to the south, to another well-irrigated area of Dharapuram. Because they are betel merchants, even today you can find one or two families living in many villages. From Vallipalayam they would have moved on to Akkaraikodivery. Due to the drying up of the river Noyyal most of the Christian people began migrating to the plantations of Nilgris in the 1920s, to Tirupur in the 1930s, and also a big exodus to Bombay in 1940s. It is to be noted that earlier as their beetle leaf cultivation started goihg down, this community had become handloom weavers, being surrounded by many villages of weavers of the Devanga Christian community of Sedãrs. This will explain the statistical incongruities in the Annual Statistical report of 1859 of Coimbatore diocese, we find th following: Pallapalayam 550 Catholics, a church and a residence Sedapalyam: 170 Catholics and a church, Semandampalayam: 50 Catholics, no church; and no school in all the 3 villages. So the population of Semandampalayam had started dwindling as early as 1859. Compare this with the Statistics of 2004: Pallapalayam: 550 Catholics, with a big church, a large presbytery, and a Highe Elementary School and a hospital: Sedapalayam 400 Catholics with a new large churdh, Semandampalayarn 50 Catholics and a new big church. So its no wonder that Pallapalayam was the first parish to be carved out of Karumathámpatty district. Pallapalayam, even before the MEP fathers took over the mission work was a big Christian center. By 1859 there was already a small church and a residence. The newly erected Vicariate of Coimbatore, (though with head quarters at Karumathampatty), Pallapalyam with its sub-stations of Sedapalayam, S emandampalyam, Kombaikadu, Kombakadupudur, Vettuakapalayam and Puklipalayam had the largest catholic population and hence it was made a parish in 1860, with the first native priest Fr. Arulñather (ordained in 1857 at Karumathampatty) as the first Resident priest while Fr. Ravel was the nominal parish priest. Fr. Arul served as a parish priest here for 12 years. He died a Karrumathampatty ml 870 and was buried there.",
+  para3: "In 1862 Fr. Ravel built a new church in honour of Our Lady of Mount Carmel with the help of Fr. Arulnather. Fr. J.D.Peyramale (1877 - 1883) built the grotto of Our Lady of Lourdes, inside the church, on the right wing and also a large new presbytery. His successor Fr. J.B.Tour (1891 - 1897) extended the school and provided the church with an organ. Fr. J.B.C. Castanie (1897 - 1907 and again 1921 - 1931) beautified the altar. Fr. Ambrose, later Archbishop of Pondicherry (1932 1936) fixed the glass frames to the windows and installed the new Stations of the Cross. During Fr. A. Joseph’s time (1936. 1940) the management of the Boys’ school was handed over to the diocese. He built the compound wall for the cemetery and laid mosaic flooring inside the sanctuary. Fr. M. Chinnapan (1940 1943) built a grotto of the Sacred Heart, as a memorial of the Golden Jubilee of the establishment of the pious association of the Sacred Heart. He also raised the height of the belfry. Fr. A. Francis (1943 - 1948 ) built the gallery for the choir and extended the building of the boy’s school in 1945. Fr. A. Savarinatbar (1949.. 1954) inspite of his frail health accomplished the electrffication of the church and the presbytery. Fr.S.M.Amaldas (1956 -1960) combined the boys and girls school into a single Higher Elementary School due to the decrease in the strength of the students and he started different pious associations. Fr. A Muthusamy (1960 - 1961 ) repaired the compound walls of the church and the presbytery. Fr. John Xavier (1961 . 1962) : the Centenary .of the parish was celebrated and a portico and the church facade were constructed as a memorial. On 15.8.1963 the titular name of the patroness was changed from Our Lady of Carmel to Our Lady of Assumption (according to the Vat II liturgical reforms). The 25’’ year Jubilee was celebrated on a grand scale on 22.9.1987 and as a memorial, the entire church was renovated by Fr. Dominic and Bishop Ambrose consecrated a new altar.",
+  para4: "The same Bishop on 6.5.1989 blessed a new grotto of Our Lady of Velankanni. On 12.9.1991 the foundation for the new church was blessed and Bishop Ambrose consecrated the new church on 24.5.2002, Fr. Peter Adaikalam constructed it. It is historically note¬ worthy that the Presentation Sisters started a convent as early 1874 and a Girls’ Elementary School in the same year and Fr. Fillien started a boy’s school in 1875. Fr. A. Francis built a new building foi the school. The management of the school has been transferred tc the Presentation Sisters. A new Religious Congregation of St. Ann’ Sisters had started a convent and a big hospital, blessed on 31.06.1972 by Bishop Ambrose. Sedpalayarn fill 1940 had a sizable populatior of Catholics and a chapel was existing from 1859. During ,Fr Castanie’s reign he rebuilt the church in honour of St. John the Baptist in 1920 with local donations. In 1929 he built a portico and abelfrD It was no exception for the Christians of Pallapalayam, thatthe under went the persecution of Tippu and many a time, the church must have been destroyed. During the 9 century, they had to face the excommunication of the local hindus, as testified by the reports of Fr. Filiere of 7.2.1873 and again by the report of 1892. T maintain the church expenses and to have a regular income for the parish a new community hall was built and blessed by Bishop Ambros in the year 1997 during the time of Fr.Peter Adaikalam."
+}
+
+const History = () => {
+  return (
+    <section>
+      <div className='head-font history-heading flex items-center justify-center underline underline-offset-4 text-blue-900  '>
+        <h1 className='text-4xl font-bold '>Histoy Of the Church</h1>
+      </div>
+      <div className='history-content flex flex-col '>
+        <p>
+          {para.para1}
+        </p>
+        <br /><br />
+        <p>
+          {para.para2}
+        </p>
+        <br /><br />
+        <p>
+          {para.para3}
+        </p>
+        <br /><br />
+        <p>
+          {para.para4}
+        </p>
+        <br /><br />
+        <p>
+          {para.para5}
+        </p>
+        <br /><br />
+        
+
+      </div>
+    </section>
+  )
+}
+
+export default History

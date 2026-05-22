@@ -1,0 +1,153 @@
+@import "tailwindcss" ;
+
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  @apply bg-gray-100
+}
+
+html,body,#root{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.head-font{
+  font-family : "Lora", serif;
+}
+
+
+header{
+  font-family : "Lora", serif;
+}
+
+.nav-link{
+
+  @apply my-3 inline-block 
+  text-amber-50 hover:text-gray-900 
+   transition duration-200 
+   border border-transparent
+    hover:border rounded-xl 
+    hover:border-amber-50 hover:bg-amber-50
+    px-1
+
+    hover:px-1;
+    
+}
+
+.hero-section{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url("./assets/church11.jpg");
+  background-size:cover;
+  background-position:bottom;
+  height:28rem;
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-start;
+  align-items:center;
+  color: white;
+  text-align:center;
+}
+
+.hero-paper{
+ 
+background: rgba(255,255,255,0);
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+padding: 20px 30px ;
+border-radius: 16px;
+
+border: 1px solid rgba(255,255,255,0.2);
+color: white;
+
+text-align: center;
+justify-content: center;
+
+box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+margin-top: 4rem;
+width: 70%;
+}
+
+.hero-heading{
+   font-family : "Lora", serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  
+  color: rgb(235, 200, 200);
+  padding-top: 50px;
+  width: 80%;
+ 
+}
+
+.hero-heading1{
+   font-family : "Lora", serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: rgb(235, 200, 200);
+  width: 70%;
+}
+
+.hero-subheading{
+   font-family : "Lora", serif;
+  padding-top: 50px;
+  width: 80%;
+  justify-content: center;
+  text-align: center;
+  font-size:large ;
+  
+}
+.sec-cont{
+  padding: 2rem;
+}
+
+.mass-timing{
+  font-family: "Noto Sans Tamil Supplement", sans-serif;
+}
+
+.bottom-sec{
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer-box{
+  padding-right: 1rem;
+}
+
+.scroll-up{
+ 
+}
+
+.history-heading{
+  padding: 3rem;
+}
+
+.history-content{
+  padding: 3rem;
+  justify-content: center;
+  text-align:justify;
+  font-size:20px;
+  line-height: 1.8;
+  
+  
+}
+
+.Gallery-list-heading{
+  padding: 3rem;
+}
+
+.view-more-btn{
+  padding: 1rem;
+
+}
+
+.pad{
+  padding-left: 40px ;
+  padding-right: 40px;
+}
