@@ -59,7 +59,7 @@ const GalleryList = () => {
       </div>
 
       <div>
-        <div className='Gallery-list-heading grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-7xl mx-auto'>
+        <div className='Gallery-list-heading grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 w-full px-6'>
           {images.map((img, i) => (
             <div key={i} className='overflow-hidden rounded-2xl shadow-lg'onClick={() => {
                 setOpen(true);
