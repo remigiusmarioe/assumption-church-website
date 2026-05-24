@@ -28,16 +28,13 @@ import img22 from '../assets/img22.jpg'
 import img23 from '../assets/img23.jpg'
 import img24 from '../assets/img24.jpg'
 import img25 from '../assets/img25.jpg'
-import img26 from '../assets/img26.jpg'
 import img27 from '../assets/img27.jpg'
-import img28 from '../assets/img28.jpg'
-import img29 from '../assets/img29.jpg'
 
 
 const images = [
   img1, img2, img3, img4, img5, img6, img7, img8, img9, img10,
  img13, img14, img15, img16, img17, img18, img19, img20,
-  img21, img22, img23, img24, img25, img26, img27, img28, img29
+  img21, img22, img23, img24, img25,  img27,
 ]
 
 const GalleryList = () => {
