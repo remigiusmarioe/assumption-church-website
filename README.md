@@ -111,7 +111,7 @@ src/
 
 Remigius Marioe
 
-Frontend Developer | Java & React Developer
+Full stack Developer | Java & React Developer
 
 ---
 
